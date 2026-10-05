@@ -6,7 +6,16 @@ Este projeto executa uma LLM (**Qwen 2.5 1.5B Instruct**) de forma **100% local 
 
 ## 📋 Passo a Passo para Executar no Trabalho
 
-Assim que você clonar o repositório na sua máquina corporativa:
+### 0. Clonar o Repositório e Entrar na Pasta
+
+Abra o terminal (PowerShell ou Prompt de Comando) e execute:
+
+```powershell
+git clone https://github.com/silviosalviati/generative-ia.git
+cd generative-ia
+```
+
+---
 
 ### 1. Criar e Ativar o Ambiente Virtual Python
 
