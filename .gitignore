@@ -1,0 +1,9 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Modelo completo reconstruido (> 100MB nao vai para o Git)
+modelo_qwen/
+modelo_gguf/
+
